@@ -51,7 +51,7 @@
     "iconv-lite": "^0.6.3",
     "lucide-react": "^0.438.0",
     "music-metadata": "^8.1.4",
-    "next": "13.5",
+    "next": "15.5",
     "postcss": "8.4.23",
     "postgres": "^3.4.4",
     "react": "^18.2.0",
