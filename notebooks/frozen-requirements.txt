@@ -691,7 +691,7 @@ umap-learn==0.5.7
 umf==0.10.0
 Unidecode==1.4.0
 uritemplate==4.1.1
-urllib3==2.4.0
+urllib3==2.6.3
 uv==0.7.4
 uvicorn==0.34.2
 valle-x @ https://github.com/rsxdalv/VALL-E-X/releases/download/v0.0.1/valle_x-0.0.1-py3-none-any.whl#sha256=ec56a1f0ee340754834eefefd9fc712beb1882dbcea3cfc731849acdb652a700
