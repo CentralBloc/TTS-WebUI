@@ -306,7 +306,7 @@ jupyterlab_pygments==0.3.0
 jupyterlab_widgets==3.0.15
 kaggle==1.7.4.5
 kagglehub==0.3.12
-keras==3.8.0
+keras==3.13.1
 keras-hub==0.18.1
 keras-nlp==0.18.1
 keyring==25.6.0
