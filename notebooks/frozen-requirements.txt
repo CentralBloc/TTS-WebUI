@@ -475,7 +475,7 @@ ptyprocess==0.7.0
 py-cpuinfo==9.0.0
 py4j==0.10.9.7
 pyarrow==18.1.0
-pyasn1==0.6.1
+pyasn1==0.6.2
 pyasn1_modules==0.4.2
 pycairo==1.28.0
 pycocotools==2.0.8
