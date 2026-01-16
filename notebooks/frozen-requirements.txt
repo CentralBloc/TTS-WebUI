@@ -105,7 +105,7 @@ defusedxml==0.7.1
 demucs==4.0.1
 diffusers==0.33.1
 dill==0.3.7
-distributed==2024.12.1
+distributed==2026.1.1
 distributed-ucxx-cu12==0.42.0
 distro==1.9.0
 dlib==19.24.6
