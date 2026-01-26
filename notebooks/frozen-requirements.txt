@@ -525,7 +525,7 @@ python-crfsuite==0.9.11
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.0
 python-louvain==0.16
-python-multipart==0.0.12
+python-multipart==0.0.22
 python-slugify==8.0.4
 python-snappy==0.7.3
 python-utils==3.9.1
