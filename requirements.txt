@@ -5,7 +5,7 @@ python-dotenv==1.0.0
 cached_path >= 1.7.3 # Prevent old huggingface-hub fallbacks
  
 ffmpeg-python # Apache 2.0
-gradio==5.5.0 # MIT License
+gradio==5.31.0 # MIT License
 pydantic==2.10.6 # for gradio 5.5.0 fix
 pillow==10.3.0 # for gradio, conda fix
 # beartype>=0.16.1 # workaround for a bug

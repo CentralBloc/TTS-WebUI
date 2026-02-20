@@ -211,7 +211,7 @@ google-pasta==0.2.0
 google-resumable-media==2.7.2
 googleapis-common-protos==1.70.0
 googledrivedownloader==1.1.0
-gradio==5.5.0
+gradio==5.31.0
 gradio_client==1.4.2
 graphviz==0.20.3
 greenlet==3.2.2
